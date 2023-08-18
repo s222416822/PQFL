@@ -1,1 +1,1 @@
-# PQFL
+# Personalized Quantum Federated Learning Framework.
